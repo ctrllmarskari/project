@@ -5,10 +5,10 @@ document.addEventListener('mousemove', e => {
 });
 
 const phrases = [
-  "maybe in another life… we could be together.",
-  "you'd keep the promises you once made.",
-  "if the universe was kinder… maybe we'd meet again.",
-  "and then… would you choose me this time?",
+  "i still love u,buat im not going back."
+  " i dont hate u,i miss u."
+  "but no i don't want back to u."
+  " klo pun gua dikasih kesempatan buat balikan ama lu,gua pasti nolak kesempatan itu."
 ];
 
 const textDiv = document.getElementById("text");
